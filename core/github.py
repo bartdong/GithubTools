@@ -93,6 +93,12 @@ def query_total(user, token):
           nodes {{
             stargazerCount
             forkCount
+            ssues {{
+              totalCount
+            }}
+            pullRequests {{
+              totalCount
+            }}
           }}
         }}
       }}
@@ -105,6 +111,12 @@ def query_total(user, token):
           nodes {{
             stargazerCount
             forkCount
+            ssues {{
+              totalCount
+            }}
+            pullRequests {{
+              totalCount
+            }}
           }}
         }}
       }}
@@ -130,6 +142,8 @@ def query_total(user, token):
         for i_repo in data:
             info["stars"] += i_repo["stargazerCount"]
             info["forks"] += i_repo["forkCount"]
+            info["issues"] += i_repo['issues']['totalCount']
+            info["pr"] += i_repo['pullRequests']['totalCount']
         hasNextPage = obj['repositories']['pageInfo']['hasNextPage']
     return (info)
 

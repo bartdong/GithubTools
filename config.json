@@ -3,24 +3,29 @@
     "tasks":[
         {
             "type": "get_total_stars_and_forks",
-            "name":"nICEnnnnnnnLee",
-            "output":"data/total.json"
+            "name":"tencent",
+            "output":"data/total_tencent.json"
+        },{
+
+            "type": "get_total_stars_and_forks",
+            "name":"tarscloud",
+            "output":"data/total_tarscloud.json"
         },{
             "type": "get_stars_history",
-            "name":"nICEnnnnnnnLee",
-            "repo":"BilibiliDown",
+            "name":"tkestack",
+            "repo":"tke",
             "div":7,
             "output":"data/stars_history.jpg"
         },{
             "type": "get_top_star_repos",
-            "name":"ButterAndButterfly",
-            "top":3,
-            "output":"data/top/ButterAndButterfly/top3.json"
+            "name":"tencent",
+            "top":30,
+            "output":"data/top/tencent/top30.json"
         },{
             "type": "get_top_star_repos",
-            "name":"nICEnnnnnnnLee",
-            "top":4,
-            "output":"data/top/nICEnnnnnnnLee/top4.json"
+            "name":"tarscloud",
+            "top":10,
+            "output":"data/top/tarscloud/top10.json"
         },{
             "type": "render_template",
             "template_path":"README_template.md",
