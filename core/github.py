@@ -93,7 +93,7 @@ def query_total(user, token):
           nodes {{
             stargazerCount
             forkCount
-            ssues {{
+            issues {{
               totalCount
             }}
             pullRequests {{
@@ -111,7 +111,7 @@ def query_total(user, token):
           nodes {{
             stargazerCount
             forkCount
-            ssues {{
+            issues {{
               totalCount
             }}
             pullRequests {{
