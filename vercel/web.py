@@ -16,13 +16,15 @@ def starsAndForks(path):
     path = unquote(path)
     names = path.split("+");
     print(names)
-    result = {"stars": 0, "forks": 0}
+    result = {"stars": 0, "forks": 0, "issues": 0, "pr": 0}
     for name in names:
         if name == "":
             break
         data = query_total(name, token)
         result["stars"] += data["stars"]
         result["forks"] += data["forks"]
+        result["issues"] += data["issues"]
+        result["pr"] += data["pr"]
     return json.dumps(result, ensure_ascii=False)
 
 @app.route('/h/<name>/<repo>')

@@ -1,10 +1,10 @@
-<p align="center">
-      <strong>
-        <a href="https://github.com/ButterAndButterfly" target="_blank">ButterAndButterfly</a><br>
-      </strong>  
-        Butter, 寓意宅男; Butterfly, 寓意美好的事物。 
-        <br/> 美好的世界由我们创造!  
-</p>
+{% for name, target in template_inputs.total_stars_and_forks.items() %}
++ [{{ target.name }}](https://github.com/{{ target.name }})
+![{{ target.result.stars }} stars](https://img.shields.io/badge/Stars-{{ target.result.stars }}-green)
+![{{ target.result.forks }} forks](https://img.shields.io/badge/Forks-{{ target.result.forks }}-green)
+![{{ target.result.issues }} issues](https://img.shields.io/badge/Issues-{{ target.result.issues }}-green)
+![{{ target.result.pr }} PRs](https://img.shields.io/badge/PRs-{{ target.result.pr }}-green)
+{% endfor %}
 
 {% for name, target in template_inputs.top_star_repos.items() %}
 + [{{ target.name }}](https://github.com/{{ target.name }}) STAR TOP {{ target.topCount }}

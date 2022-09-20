@@ -6,10 +6,13 @@
             "name":"tencent",
             "output":"data/total_tencent.json"
         },{
-
             "type": "get_total_stars_and_forks",
             "name":"tarscloud",
             "output":"data/total_tarscloud.json"
+        },{
+            "type": "get_total_stars_and_forks",
+            "name":"opencloudos",
+            "output":"data/total_opencloudos.json"
         },{
             "type": "get_stars_history",
             "name":"tkestack",

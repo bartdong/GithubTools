@@ -32,13 +32,15 @@ def checkDir(file: str):
 def get_total_stars_and_forks(name:str, output:str, **kwargs):
     def starsAndForks(name, token):
         names = name.split("+");
-        result = {"stars": 0, "forks": 0}
+        result = {"stars": 0, "forks": 0, "issues": 0, "pr": 0}
         for name in names:
             if name == "":
                 break
             data = query_total(name, token)
             result["stars"] += data["stars"]
             result["forks"] += data["forks"]
+            result["issues"] += data["issues"]
+            result["pr"] += data["pr"]
         return result   
     result = starsAndForks(name, token)
     data = json.dumps(result, ensure_ascii=False)

@@ -122,7 +122,7 @@ def query_total(user, token):
       }}
     }}
     """
-    info = {"stars": 0, "forks": 0}
+    info = {"stars": 0, "forks": 0, "issues": 0, "pr": 0}
     headers = {"Authorization": "token "+ token}
     endCursor = ""
     hasNextPage = True
