@@ -15,12 +15,12 @@
             "output":"data/total_opencloudos.json"
         },{
             "type": "get_total_stars_and_forks",
-            "name":"OpenTenBase",
+            "name":"opentenbase",
             "output":"data/total_opentenbase.json"
         },{
             "type": "get_stars_history",
-            "name":"OpenTenBase",
-            "repo":"OpenTenBase",
+            "name":"opentenbase",
+            "repo":"opentenbase",
             "div":7,
             "output":"data/stars_history.jpg"
         },{
