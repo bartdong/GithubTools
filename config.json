@@ -14,9 +14,13 @@
             "name":"opencloudos",
             "output":"data/total_opencloudos.json"
         },{
+            "type": "get_total_stars_and_forks",
+            "name":"OpenTenBase",
+            "output":"data/total_opentenbase.json"
+        },{
             "type": "get_stars_history",
-            "name":"tkestack",
-            "repo":"tke",
+            "name":"OpenTenBase",
+            "repo":"OpenTenBase",
             "div":7,
             "output":"data/stars_history.jpg"
         },{
