@@ -19,7 +19,7 @@
 + Recommended Repository  
 <p align="center">
       <strong>
-        <a href="https://github.com/opentenbase/opentenbase" target="_blank">opentenbase/tke</a>
+        <a href="https://github.com/opentenbase/opentenbase" target="_blank">opentenbase/opentenbase</a>
       </strong>  的star历史图
   <br>
   <img src="https://raw.githubusercontent.com/ButterAndButterfly/GithubTools/master/{{ template_inputs.stars_history['opentenbase/opentenbase'].output }}" width="350px"></img>    
