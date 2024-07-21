@@ -1,9 +1,9 @@
 
 + [tencent](https://github.com/tencent)
-![492922 stars](https://img.shields.io/badge/Stars-492922-green)
-![90928 forks](https://img.shields.io/badge/Forks-90928-green)
-![41263 issues](https://img.shields.io/badge/Issues-41263-green)
-![33725 PRs](https://img.shields.io/badge/PRs-33725-green)
+![492986 stars](https://img.shields.io/badge/Stars-492986-green)
+![90936 forks](https://img.shields.io/badge/Forks-90936-green)
+![41270 issues](https://img.shields.io/badge/Issues-41270-green)
+![33731 PRs](https://img.shields.io/badge/PRs-33731-green)
 
 + [tarscloud](https://github.com/tarscloud)
 ![14990 stars](https://img.shields.io/badge/Stars-14990-green)
@@ -28,17 +28,17 @@
 + [tencent](https://github.com/tencent) STAR TOP 30
     
     + [weui](https://github.com/tencent/weui) 
-    ![27127 stars](https://img.shields.io/badge/Stars-27127-green)
-    ![6418 forks](https://img.shields.io/badge/Forks-6418-green)  
+    ![27133 stars](https://img.shields.io/badge/Stars-27133-green)
+    ![6419 forks](https://img.shields.io/badge/Forks-6419-green)  
     A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
     
     + [wepy](https://github.com/tencent/wepy) 
-    ![22486 stars](https://img.shields.io/badge/Stars-22486-green)
+    ![22489 stars](https://img.shields.io/badge/Stars-22489-green)
     ![3052 forks](https://img.shields.io/badge/Forks-3052-green)  
     小程序组件化开发框架
     
     + [ncnn](https://github.com/tencent/ncnn) 
-    ![19799 stars](https://img.shields.io/badge/Stars-19799-green)
+    ![19803 stars](https://img.shields.io/badge/Stars-19803-green)
     ![4106 forks](https://img.shields.io/badge/Forks-4106-green)  
     ncnn is a high-performance neural network inference framework optimized for the mobile platform
     
@@ -58,18 +58,18 @@
     Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
     
     + [APIJSON](https://github.com/tencent/APIJSON) 
-    ![16934 stars](https://img.shields.io/badge/Stars-16934-green)
+    ![16936 stars](https://img.shields.io/badge/Stars-16936-green)
     ![2124 forks](https://img.shields.io/badge/Forks-2124-green)  
     🏆 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🏆 A JSON Transmission Protocol and an ORM Library 🚀  provides APIs and Docs without writing any code.
     
     + [vConsole](https://github.com/tencent/vConsole) 
-    ![16643 stars](https://img.shields.io/badge/Stars-16643-green)
+    ![16645 stars](https://img.shields.io/badge/Stars-16645-green)
     ![2938 forks](https://img.shields.io/badge/Forks-2938-green)  
     A lightweight, extendable front-end developer tool for mobile web page.
     
     + [weui-wxss](https://github.com/tencent/weui-wxss) 
-    ![15042 stars](https://img.shields.io/badge/Stars-15042-green)
-    ![5269 forks](https://img.shields.io/badge/Forks-5269-green)  
+    ![15041 stars](https://img.shields.io/badge/Stars-15041-green)
+    ![5270 forks](https://img.shields.io/badge/Forks-5270-green)  
     A UI library by WeChat official design team, includes the most useful widgets/modules.
     
     + [QMUI_Android](https://github.com/tencent/QMUI_Android) 
@@ -79,11 +79,11 @@
     
     + [rapidjson](https://github.com/tencent/rapidjson) 
     ![14046 stars](https://img.shields.io/badge/Stars-14046-green)
-    ![3508 forks](https://img.shields.io/badge/Forks-3508-green)  
+    ![3507 forks](https://img.shields.io/badge/Forks-3507-green)  
     A fast JSON parser/generator for C++ with both SAX/DOM style API
     
     + [secguide](https://github.com/tencent/secguide) 
-    ![13178 stars](https://img.shields.io/badge/Stars-13178-green)
+    ![13182 stars](https://img.shields.io/badge/Stars-13182-green)
     ![1938 forks](https://img.shields.io/badge/Forks-1938-green)  
     面向开发人员梳理的代码安全指南
     
@@ -113,12 +113,12 @@
     xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.
     
     + [libco](https://github.com/tencent/libco) 
-    ![8191 stars](https://img.shields.io/badge/Stars-8191-green)
+    ![8192 stars](https://img.shields.io/badge/Stars-8192-green)
     ![2073 forks](https://img.shields.io/badge/Forks-2073-green)  
     libco is a coroutine library which is widely used in wechat  back-end service. It has been running on tens of thousands of machines since 2013.
     
     + [Hippy](https://github.com/tencent/Hippy) 
-    ![7908 stars](https://img.shields.io/badge/Stars-7908-green)
+    ![7909 stars](https://img.shields.io/badge/Stars-7909-green)
     ![934 forks](https://img.shields.io/badge/Forks-934-green)  
     Hippy is designed to easily build cross-platform dynamic apps. 👏
     
@@ -138,7 +138,7 @@
     Find memory leaks in your iOS app at develop time.
     
     + [lemon-cleaner](https://github.com/tencent/lemon-cleaner) 
-    ![5340 stars](https://img.shields.io/badge/Stars-5340-green)
+    ![5341 stars](https://img.shields.io/badge/Stars-5341-green)
     ![752 forks](https://img.shields.io/badge/Forks-752-green)  
     腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
     
@@ -148,12 +148,12 @@
     The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
     
     + [puerts](https://github.com/tencent/puerts) 
-    ![4801 stars](https://img.shields.io/badge/Stars-4801-green)
-    ![682 forks](https://img.shields.io/badge/Forks-682-green)  
+    ![4800 stars](https://img.shields.io/badge/Stars-4800-green)
+    ![683 forks](https://img.shields.io/badge/Forks-683-green)  
     PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
     
     + [kbone](https://github.com/tencent/kbone) 
-    ![4755 stars](https://img.shields.io/badge/Stars-4755-green)
+    ![4756 stars](https://img.shields.io/badge/Stars-4756-green)
     ![453 forks](https://img.shields.io/badge/Forks-453-green)  
     一个致力于微信小程序和 Web 端同构的解决方案
     
