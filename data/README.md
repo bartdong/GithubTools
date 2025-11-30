@@ -1,9 +1,9 @@
 
 + [tencent](https://github.com/tencent)
-![532342 stars](https://img.shields.io/badge/Stars-532342-green)
+![532393 stars](https://img.shields.io/badge/Stars-532393-green)
 ![95220 forks](https://img.shields.io/badge/Forks-95220-green)
-![47031 issues](https://img.shields.io/badge/Issues-47031-green)
-![41232 PRs](https://img.shields.io/badge/PRs-41232-green)
+![47035 issues](https://img.shields.io/badge/Issues-47035-green)
+![41250 PRs](https://img.shields.io/badge/PRs-41250-green)
 
 + [tarscloud](https://github.com/tarscloud)
 ![15403 stars](https://img.shields.io/badge/Stars-15403-green)
@@ -18,7 +18,7 @@
 ![228 PRs](https://img.shields.io/badge/PRs-228-green)
 
 + [opentenbase](https://github.com/opentenbase)
-![247 stars](https://img.shields.io/badge/Stars-247-green)
+![248 stars](https://img.shields.io/badge/Stars-248-green)
 ![186 forks](https://img.shields.io/badge/Forks-186-green)
 ![100 issues](https://img.shields.io/badge/Issues-100-green)
 ![182 PRs](https://img.shields.io/badge/PRs-182-green)
@@ -38,32 +38,32 @@
     小程序组件化开发框架
     
     + [ncnn](https://github.com/tencent/ncnn) 
-    ![22340 stars](https://img.shields.io/badge/Stars-22340-green)
+    ![22339 stars](https://img.shields.io/badge/Stars-22339-green)
     ![4354 forks](https://img.shields.io/badge/Forks-4354-green)  
     ncnn is a high-performance neural network inference framework optimized for the mobile platform
     
     + [MMKV](https://github.com/tencent/MMKV) 
-    ![18339 stars](https://img.shields.io/badge/Stars-18339-green)
-    ![1968 forks](https://img.shields.io/badge/Forks-1968-green)  
+    ![18341 stars](https://img.shields.io/badge/Stars-18341-green)
+    ![1967 forks](https://img.shields.io/badge/Forks-1967-green)  
     An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.
     
     + [APIJSON](https://github.com/tencent/APIJSON) 
-    ![18285 stars](https://img.shields.io/badge/Stars-18285-green)
+    ![18287 stars](https://img.shields.io/badge/Stars-18287-green)
     ![2265 forks](https://img.shields.io/badge/Forks-2265-green)  
     🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the returned JSON of API can be customized by Frontend(Client) users
     
     + [tinker](https://github.com/tencent/tinker) 
-    ![17735 stars](https://img.shields.io/badge/Stars-17735-green)
+    ![17736 stars](https://img.shields.io/badge/Stars-17736-green)
     ![3361 forks](https://img.shields.io/badge/Forks-3361-green)  
     Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
     
     + [mars](https://github.com/tencent/mars) 
-    ![17568 stars](https://img.shields.io/badge/Stars-17568-green)
+    ![17572 stars](https://img.shields.io/badge/Stars-17572-green)
     ![3682 forks](https://img.shields.io/badge/Forks-3682-green)  
     Mars is a cross-platform network component  developed by WeChat.
     
     + [vConsole](https://github.com/tencent/vConsole) 
-    ![17352 stars](https://img.shields.io/badge/Stars-17352-green)
+    ![17353 stars](https://img.shields.io/badge/Stars-17353-green)
     ![2977 forks](https://img.shields.io/badge/Forks-2977-green)  
     A lightweight, extendable front-end developer tool for mobile web page.
     
@@ -73,12 +73,12 @@
     A UI library by WeChat official design team, includes the most useful widgets/modules.
     
     + [rapidjson](https://github.com/tencent/rapidjson) 
-    ![14911 stars](https://img.shields.io/badge/Stars-14911-green)
-    ![3638 forks](https://img.shields.io/badge/Forks-3638-green)  
+    ![14912 stars](https://img.shields.io/badge/Stars-14912-green)
+    ![3639 forks](https://img.shields.io/badge/Forks-3639-green)  
     A fast JSON parser/generator for C++ with both SAX/DOM style API
     
     + [QMUI_Android](https://github.com/tencent/QMUI_Android) 
-    ![14512 stars](https://img.shields.io/badge/Stars-14512-green)
+    ![14513 stars](https://img.shields.io/badge/Stars-14513-green)
     ![2677 forks](https://img.shields.io/badge/Forks-2677-green)  
     提高 Android UI 开发效率的 UI 库
     
@@ -103,12 +103,12 @@
     VasSonic is a lightweight and high-performance Hybrid framework developed by tencent VAS team, which is intended to speed up the first screen of websites working on Android and iOS platform. 
     
     + [wcdb](https://github.com/tencent/wcdb) 
-    ![11567 stars](https://img.shields.io/badge/Stars-11567-green)
+    ![11570 stars](https://img.shields.io/badge/Stars-11570-green)
     ![1471 forks](https://img.shields.io/badge/Forks-1471-green)  
     WCDB is a cross-platform database framework developed by WeChat.
     
     + [xLua](https://github.com/tencent/xLua) 
-    ![9927 stars](https://img.shields.io/badge/Stars-9927-green)
+    ![9928 stars](https://img.shields.io/badge/Stars-9928-green)
     ![2500 forks](https://img.shields.io/badge/Forks-2500-green)  
     xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.
     
@@ -122,28 +122,28 @@
     ![995 forks](https://img.shields.io/badge/Forks-995-green)  
     Hippy is designed to easily build cross-platform dynamic apps. 👏
     
+    + [WeKnora](https://github.com/tencent/WeKnora) 
+    ![7684 stars](https://img.shields.io/badge/Stars-7684-green)
+    ![886 forks](https://img.shields.io/badge/Forks-886-green)  
+    LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+    
     + [Shadow](https://github.com/tencent/Shadow) 
     ![7680 stars](https://img.shields.io/badge/Stars-7680-green)
     ![1340 forks](https://img.shields.io/badge/Forks-1340-green)  
     零反射全动态Android插件框架
     
-    + [WeKnora](https://github.com/tencent/WeKnora) 
-    ![7670 stars](https://img.shields.io/badge/Stars-7670-green)
-    ![885 forks](https://img.shields.io/badge/Forks-885-green)  
-    LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-    
     + [QMUI_iOS](https://github.com/tencent/QMUI_iOS) 
-    ![7207 stars](https://img.shields.io/badge/Stars-7207-green)
+    ![7206 stars](https://img.shields.io/badge/Stars-7206-green)
     ![1423 forks](https://img.shields.io/badge/Forks-1423-green)  
     QMUI iOS——致力于提高项目 UI 开发效率的解决方案
     
     + [lemon-cleaner](https://github.com/tencent/lemon-cleaner) 
-    ![6010 stars](https://img.shields.io/badge/Stars-6010-green)
+    ![6012 stars](https://img.shields.io/badge/Stars-6012-green)
     ![782 forks](https://img.shields.io/badge/Forks-782-green)  
     腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
     
     + [puerts](https://github.com/tencent/puerts) 
-    ![5792 stars](https://img.shields.io/badge/Stars-5792-green)
+    ![5793 stars](https://img.shields.io/badge/Stars-5793-green)
     ![797 forks](https://img.shields.io/badge/Forks-797-green)  
     PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
     
